@@ -1,0 +1,10 @@
+hash: 00561b561d19b544c129e1289047deed1b674b01431aa2e1c524f76c0983e93f
+updated: 2017-06-06T13:27:06.869992694-07:00
+imports:
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: bcd8bc72b08df0f70df986b97f95590779502d31
+- name: github.com/Pallinder/go-randomdata
+  version: 8c3362a5e6781e0d1046f1267b3c1f19b2cde334
+testImports: []

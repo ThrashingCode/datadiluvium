@@ -1,0 +1,5 @@
+package: github.com/adron/datadiluvium
+import:
+- package: github.com/gorilla/mux
+  version: ^1.4.0
+- package: github.com/Pallinder/go-randomdata
