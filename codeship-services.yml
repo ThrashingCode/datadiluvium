@@ -1,4 +1,0 @@
-    datadiluvium:
-      build:
-        image: adron/golang-glide
-        dockerfile_path: Dockerfile
