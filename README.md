@@ -1,7 +1,5 @@
 # Data Diluvium
 
-# NOTES - Relaunching Project & Project Cleanup
+This project is a data generation / random data generation project for building an API service to generate logically structured generic data for various export options. Such as data generation and export to Postgres, MariaDB, Apache Cassandra, Mongo, or a host of other databases or other data sources.
 
-Heyo all interested, I'm currently in the process of clean up on this repo and also getting everybody looped into the project that is interested in being directly involved. To get involved, sign up to [Thrashing Code News](https://adron.us11.list-manage.com/subscribe?u=7f73ff0427183b9b64e1f336a&id=a6fc3efde0) and select the *Open Source Projects Only* option.
-
-More to come *REALLY REALLY REALLY* soon!  :-)
+More details coming soon. If you'd like more information check out the [Thrashing Code Newsletter](https://compositecode.blog/thrashing-composite-code-newsletter/) for more details.
